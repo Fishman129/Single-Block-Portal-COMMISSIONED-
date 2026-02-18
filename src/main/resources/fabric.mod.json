@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "singleportal",
+	"version": "${version}",
+	"name": "Single Portal",
+	"description": "Single-block portal that behaves like a Nether portal.",
+	"authors": [
+		"Alessandro Cervantes"
+	],
+	"contact": {
+		"sources": "https://github.com/yourname/singleportal"
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.fishguy129.singleportal.SinglePortalMod"
+		]
+	},
+	"mixins": [
+		"singleportal.client.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.2",
+		"minecraft": "1.21.1",
+		"fabric-api": "*"
+	}
+}
