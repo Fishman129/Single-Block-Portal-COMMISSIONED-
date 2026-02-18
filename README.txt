@@ -1,5 +1,3 @@
-I'll try to explain what you should change but I'm guessing you have enough experience to figure it out with js the classes.
-
 ---
 Summary:
 Overworld <<->> Nether teleport (8:1)
@@ -110,5 +108,6 @@ Add the overlay PNG at:
 assets/<your_modid>/textures/misc/single_portal_overlay.png
 
 Animated overlay:
+
 
 Im using a vertical sprite sheet (16×512) but Im guessing youll figure this out
