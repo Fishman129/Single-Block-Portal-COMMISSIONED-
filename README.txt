@@ -1,3 +1,5 @@
+I was commissioned to build this small framework that adds a block that acts exactly like a nether portal, so that it can be customized to add other dimensions.
+
 ---
 Summary:
 Overworld <<->> Nether teleport (8:1)
@@ -111,3 +113,4 @@ Animated overlay:
 
 
 Im using a vertical sprite sheet (16×512) but Im guessing youll figure this out
+
